@@ -1,10 +1,9 @@
 # publicPictures
 
-Getting started with Markdown
+Our Documentation
 =============================
 
 
-- [Getting started with Markdown](#getting-started-with-markdown)
 - [Open Page For Specifc Folder](#folder)
 ----------------------------------
 
