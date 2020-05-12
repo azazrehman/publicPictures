@@ -1,16 +1,17 @@
+# Documentation of Expoted Modules
 
 Documentation for two modules:
-- [common APIs](## puppeteerAPI.js File Documentation)
-- [Common/Repetive Steps](## commonFunction.js File Documentation)
+- [Common API](#puppeteerAPI)
+- [Common/Repetive Steps](#commonFunction)
 
-<a name="puppeteerAPI.js File Documentation"></a> 
-## puppeteerAPI.js File Documentation
+<a name="puppeteerAPI"></a> 
+## puppeteerAPI.js
 
 There are several checks and clicks used many times in our code. To avoid repetition of code, we created a separate file named "puppeteerAPI.js” having reusable functions.
  
 Following are the functions of puppeteerAPI.js
 
-- [Click on any Element](###click)
+- [Click on any Element](#click)
 - [Click With Navigate](#clickWithNavigate)
 - [Type a text](#typeText)
 - [Should Exist Element](#shouldExist)
@@ -31,6 +32,7 @@ Following are the functions of puppeteerAPI.js
 - [waitForXPath](#waitForXPath)
 - [wait Until Element is Invisible](#waitUntilElementInvisible)
 ----------------------------------
+
 <a name="click"></a> 
 ### click 
  
@@ -226,8 +228,8 @@ Parameters:
     *selector - A  selector whose u want to wait for disappear
     *maximumTime - maximum time which u want to wait the element
 
-<a name="commonFunction.js File Documentation"></a> 
-## commonFunction.js File Documentation
+<a name="commonFunction"></a> 
+## commonFunction.js
 comming soon...
 
 This is not the end. its just beginning :wink:
