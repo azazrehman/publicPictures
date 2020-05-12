@@ -1,4 +1,9 @@
-# Documentation of Expoted Modules
+Clone the repository and run 
+`npm install`
+
+create any .js file inside ertugrul directory and just write "newFile" and Hit enter to insert a sample snippets for that file.
+
+## Documentation of Expoted Modules
 
 Documentation for two modules:
 - [Common API](#puppeteerAPI)
@@ -7,7 +12,7 @@ Documentation for two modules:
 <a name="puppeteerAPI"></a> 
 ## puppeteerAPI.js
 
-There are several checks and clicks used many times in our code. To avoid repetition of code, we created a separate file named "puppeteerAPI.js” having reusable functions.
+There are several checks and clicks used many times in our code. To avoid repetition of code, we created a separate file named "puppeteerAPI.js” having reusable functions.mostly it is require with **myHelper** named
  
 Following are the functions of puppeteerAPI.js
 
