@@ -4,7 +4,7 @@ There are several checks and clicks used many times in our code. To avoid repeti
  
 Following are the functions of puppeteerAPI.js
 
-- [click](#click)
+- [Click on Element](#click)
 - [clickWithNavigate](#clickWith)
 - [typeText](#typeText)
 - [loadUrl](#loadUrl)
@@ -26,7 +26,7 @@ Following are the functions of puppeteerAPI.js
 - [waitUntilElementInvisible](#waitUntilElementInvisible)
 ----------------------------------
 
-# click 
+### click 
  
 Most commonly used action in puppeteer, This function will be used to click the elements
  
